@@ -1,0 +1,6 @@
+add_executable(filenoandfile filenoandfile.cc)
+add_executable(openfile openfile.cc)
+add_executable(readandwritedemo readandwritedemo.cc)
+add_executable(statdemo statdemo.cc)
+add_executable(dupdemp dupdemo.cc)
+add_executable(lockdemo lockdemo.cc)
